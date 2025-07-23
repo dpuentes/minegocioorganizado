@@ -37,3 +37,4 @@ Permite gestionar **ventas, gastos, inventarios, reportes y automatización** co
 
 ![Reporte de ventas](./assets/resumen_de_ventas.png)
 ![Reporte de gastos](./assets/resumen_de_gastos.png)
+![Reporte de gastos](./assets/informe_whatsApp.png)
