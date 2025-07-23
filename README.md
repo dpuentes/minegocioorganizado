@@ -34,7 +34,6 @@ Permite gestionar **ventas, gastos, inventarios, reportes y automatización** co
 ---
 
 ## 📷 Capturas de pantalla
-*(Aquí puedes agregar imágenes de ejemplo de tu aplicación)*  
-Ejemplo:  
-```markdown
-![Dashboard](./assets/dashboard.png)
+
+![Reporte de ventas](./assets/resumen_de_ventas.png)
+![Reporte de gastos](./assets/resumen_de_gastos.png)
