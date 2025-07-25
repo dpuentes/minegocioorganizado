@@ -6,6 +6,16 @@
 [![WhatsApp API](https://img.shields.io/badge/Meta-WhatsApp_Gateway-green?logo=whatsapp&logoColor=white)](https://business.whatsapp.com/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-API-blueviolet?logo=openai&logoColor=white)](https://openai.com/)
 
+---
+
+### 🔒 Aviso sobre el código fuente
+
+> Este repositorio **no contiene el código fuente** del proyecto.  
+> Su propósito es únicamente **presentar las funcionalidades y objetivos** de la plataforma.  
+> Si estás interesado en colaborar o conocer más, no dudes en escribirme. ¡Estoy buscando aliados para construir juntos!
+
+---
+
 **Mi Negocio Organizado** es una plataforma **POS y ERP en la nube**, diseñada para **pequeñas empresas**.  
 Permite gestionar **ventas, gastos, inventarios, reportes y automatización** con una interfaz sencilla y moderna.
 
